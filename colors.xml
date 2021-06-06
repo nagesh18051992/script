@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <color name="color_light_grey">#e2e2e2</color>
+    <color name="revos_grey">#232728</color>
+    <color name="egg_white">#ebeae8</color>
+    <color name="color_text_secondary_light">#939393</color>
+    <color name="color_text_secondary_dark">#939393</color>
+
+    <color name="color_call_list_separator_light">#e0dfde</color>
+    <color name="color_call_list_separator_dark">#191c1d</color>
+
+    <color name="revos_green">#6cd387</color>
+    <color name="revos_green_dark">#48976a</color>
+
+    <color name="scan_manually_underline_dark">#949494</color>
+    <color name="scan_manually_underline_light">@color/revos_grey</color>
+
+    <color name="scan_manually_text_dark">#949494</color>
+    <color name="scan_manually_text_light">@color/revos_grey</color>
+
+    <color name="speedometer_arc_color_light">#009e55</color>
+    <color name="speedometer_arc_color_dark">@color/revos_green</color>
+
+    <color name="direction_progress_bar_color_light">@color/orange_light</color>
+    <color name="direction_progress_bar_color_dark">@color/orange_dark</color>
+
+    <color name="direction_progress_bar_rim_color_light">#33b2b6b7</color>
+    <color name="direction_progress_bar_rim_color_dark">#33336651</color>
+
+    <color name="tab_divider_light">#1a1d1d</color>
+    <color name="tab_divider_dark">@color/revos_green_dark</color>
+
+    <color name="orange_dark">#ff9155</color>
+    <color name="orange_light">#f1671b</color>
+    <color name="orange_extra_light">#ffba3b</color>
+
+    <color name="yellow">#ffff00</color>
+
+    <color name="text_color_light">#1f2222</color>
+
+    <color name="revos_pitch_black">#000000</color>
+
+    <color name="hyperlink_grey">#8e8e8e</color>
+    <color name="facebook_blue">@color/com_facebook_blue</color>
+    <color name="version_code_blue">#1877F2</color>
+    <color name="google_font_color">#8a000000</color>
+
+    <color name="device_list_view_separator_color">#262828</color>
+
+    <color name="scan_device_activity_background_color">#303537</color>
+
+    <color name="color_card_background_light">#f7f7f7</color>
+    <color name="color_card_background_dark">#303537</color>
+
+    <color name="color_google_maps_notification_green">#009e55</color>
+
+    <color name="color_enter_destination_underline_color_light">#a0a6a8</color>
+    <color name="color_enter_destination_underline_color_dark">#4f5557</color>
+
+    <color name="color_profile_pic_background">#6a6a6a</color>
+
+    <color name="color_profile_card_separator_line_dark">#262828</color>
+    <color name="color_profile_card_separator_line_light">#e3e3e3</color>
+
+    <color name="color_user_profile_primary_text_dark">#1f2222</color>
+    <color name="color_user_profile_primary_text_light">#c9c9c9</color>
+
+    <color name="color_user_profile_secondary_text_light">#949494</color>
+    <color name="color_user_profile_secondary_text_dark">#939393</color>
+
+    <color name="color_scan_dl_side_text">#939393</color>
+
+    <color name="color_total_trips_background_light">#e2e2e2</color>
+    <color name="color_total_trips_background_dark">#424242</color>
+
+    <color name="color_view_trip_history_background_light">#f7f7f7</color>
+    <color name="color_view_trip_history_background_dark">#353a3b</color>
+
+    <color name="color_area_chart_start_light">@color/revos_green</color>
+    <color name="color_area_chart_end_light">@color/egg_white</color>
+
+    <color name="color_area_chart_start_dark">@color/revos_green_dark</color>
+    <color name="color_area_chart_end_dark">#000000</color>
+
+    <!--vector icon colors -->
+    <color name="color_ic_add_place_dark">#6CD387</color>
+    <color name="color_ic_add_place_light">#232728</color>
+
+    <color name="color_ic_back_arrow_light">#1F2222</color>
+    <color name="color_ic_back_arrow_dark">#f7f7f7</color>
+
+    <color name="color_ic_battery_normal_dark">#6CD387</color>
+    <color name="color_ic_battery_normal_light">#232728</color>
+
+    <color name="color_ic_battery_low_dark">#F46262</color>
+    <color name="color_ic_battery_low_light">#D33737</color>
+
+    <color name="color_ic_light_status_dark">#4CE5D6</color>
+    <color name="color_ic_light_status_light">#009E55</color>
+
+    <color name="color_auto_indicate_icon_background">#333531</color>
+
+    <color name="color_notification_accent_color">#000000</color>
+    <color name="wechat">#7BB32E</color>
+
+    <color name="color_critical_error_background">#F45757</color>
+
+    <color name="color_ride_mode">#ffc107</color>
+
+    <color name="color_geo_fence_fill_green">#CCFFCC</color>
+
+</resources>
